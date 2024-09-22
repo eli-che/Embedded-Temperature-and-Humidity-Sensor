@@ -3,6 +3,10 @@
 This project demonstrates how to interface the ESP32 microcontroller with a DHT11 sensor to measure temperature and humidity. The sensor data is displayed both on a serial monitor and a 16x2 I2C LCD.
 
 ## Features
+
+https://github.com/user-attachments/assets/33c41e46-d9c8-400c-b219-33b79e225bad
+
+
 - **Temperature Measurement**: Reads the temperature from the DHT11 sensor and displays it in Celsius.
 - **Humidity Measurement**: Reads the humidity from the DHT11 sensor and displays it as a percentage.
 - **LCD Display**: Shows the temperature and humidity on a 16x2 I2C LCD.
