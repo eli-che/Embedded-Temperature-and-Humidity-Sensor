@@ -107,6 +107,3 @@ void loop() {
 ## License
 This project is open-source under the MIT License. Feel free to modify and distribute as needed.
 
----
-
-This `README.md` file provides all the key details for anyone interested in understanding, using, or contributing to your project. Let me know if you need any adjustments!
